@@ -26,14 +26,7 @@
 * **Local Storage:** SharedPreferences
 * **Utility:** Intl (Formatting), UUID (Unique ID Generation)
 
-## 📸 Screenshots
-
-| Splash Screen | Login / Register | Home Dashboard | Dark Mode |
-| --- | --- | --- | --- |
-|  |  |  |  |
-
-*(Note: Replace placeholders with your actual screenshots from the `assets` folder.)*
-
+ 
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
